@@ -42,7 +42,7 @@ body {
 .item {
   width: 160px;
   height: 200px;
-  margin: 20px;
+  margin: 10px;
   text-decoration: none;
   transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
   perspective: 1000px;

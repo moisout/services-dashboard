@@ -5,13 +5,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="style.css">
-  <title>Oeger.li Services</title>
+  <title>Apps</title>
 </head>
 
 <body>
   <div class="dashboard">
-    <div class="title" title="Maurices Services">
-      <h1>Maurices Services</h1>
+    <div class="title">
+      <h1>Apps</h1>
     </div>
     <div class="items">
       <?php
