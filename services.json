@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Emby",
+    "url": "https://emby.oeger.li",
+    "image": "images/emby.png"
+  }, {
+    "name": "Nextcloud",
+    "url": "https://cloud.oeger.li",
+    "image": "images/cloud.png"
+  }, {
+    "name": "Bookstack",
+    "url": "https://books.oeger.li",
+    "image": "images/bookstack.png"
+  }, {
+    "name": "ViewTube",
+    "url": "https://viewtube.eu",
+    "image": "images/viewtube.png"
+  }, {
+    "name": "Bitwarden",
+    "url": "https://bitwarden.oeger.li",
+    "image": "images/bitwarden.png"
+  }, {
+    "name": "Uptime",
+    "url": "https://uptime.oeger.li",
+    "image": "images/uptime.png"
+  }
+]

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="192" height="192">
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMa" x1="28.815" x2="34.444" y1="6.398" y2="60.702" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#1a6dff"/>
+        <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMa)" d="M52,39V12c0-1.65-1.35-3-3-3H36c0-1.65-1.35-3-3-3h-2c-1.65,0-3,1.35-3,3H15 c-1.65,0-3,1.35-3,3v27c-1.1,0-2,0.9-2,2v2c0,1.1,0.9,2,2,2h12.38l-6.27,12.55L19,58h1.12l2.5-5h16.76l2.5,5H43l0.89-0.45L37.62,45 H52c1.1,0,2-0.9,2-2v-2C54,39.9,53.1,39,52,39z M30,9c0-0.55,0.45-1,1-1h2c0.55,0,1,0.45,1,1v2c0,0.55-0.45,1-1,1h-2 c-0.55,0-1-0.45-1-1V9z M14,12c0-0.55,0.45-1,1-1h13c0,1.65,1.35,3,3,3h2c1.65,0,3-1.35,3-3h13c0.55,0,1,0.45,1,1v27H37v-1.96 c0-1.12-0.92-2.04-2.04-2.04h-7.92C25.92,35,25,35.92,25,37.04V39H14V12z M27.04,37L35,37.04V39h-7.99L27.04,37z M38.38,51H23.62 l1-2h12.76L38.38,51z M25.62,47l1-2h8.76l1,2H25.62z M52,43H12v-2h40V43z"/>
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMb" x1="20.575" x2="26.242" y1="7.253" y2="61.92" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#1a6dff"/>
+        <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMb)" d="M16 20H28V22H16z"/>
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMc" x1="20.165" x2="25.831" y1="7.296" y2="61.963" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#1a6dff"/>
+        <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMc)" d="M16 24H28V26H16z"/>
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMd" x1="17.776" x2="23.442" y1="7.544" y2="62.21" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#1a6dff"/>
+        <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMd)" d="M16 28H24V30H16z"/>
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMe" x1="32.719" x2="38.386" y1="5.995" y2="60.661" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#1a6dff"/>
+        <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMe)" d="M34 26H36V30H34z"/>
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMf" x1="36.882" x2="42.548" y1="5.563" y2="60.23" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#1a6dff"/>
+        <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMf)" d="M38 22H40V30H38z"/>
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMg" x1="40.942" x2="46.608" y1="5.142" y2="59.809" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#1a6dff"/>
+        <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMg)" d="M42 20H44V30H42z"/>
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMh" x1="44.694" x2="50.361" y1="4.753" y2="59.42" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#1a6dff"/>
+        <stop offset="1" stop-color="#c822ff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMh)" d="M46 24H48V30H46z"/>
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMi" x1="31" x2="31" y1="36.125" y2="40" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#6dc7ff"/>
+        <stop offset="1" stop-color="#e6abff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMi)" d="M27 37H35V39H27z"/>
+    <linearGradient id="GTqvu3GXK3QSv3bpqU7DMj" x1="32" x2="32" y1="7.75" y2="12.252" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+        <stop offset="0" stop-color="#6dc7ff"/>
+        <stop offset="1" stop-color="#e6abff"/>
+    </linearGradient>
+    <path fill="url(#GTqvu3GXK3QSv3bpqU7DMj)" d="M34,11c0,0.552-0.448,1-1,1h-2c-0.552,0-1-0.448-1-1V9c0-0.552,0.448-1,1-1h2 c0.552,0,1,0.448,1,1V11z"/>
+</svg>

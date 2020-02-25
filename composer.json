@@ -1,0 +1,12 @@
+{
+    "name": "moegerli/services-dashboard",
+    "authors": [
+        {
+            "name": "Oegerli, Maurice",
+            "email": "maurice@oeger.li"
+        }
+    ],
+    "require": {
+        "league/color-extractor": "0.3.*"
+    }
+}
