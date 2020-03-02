@@ -45,7 +45,7 @@
         $colorGradient = 'linear-gradient(153deg, ' . $firstColorRgb . ' 0%, ' . $secondColorRgb . ' 20%, #46464666 80%)';
 
         $item = '
-          <a class="item" href="' . $service->url . '" target="_blank">
+          <a class="item" href="' . $service->url . '" target="_blank" style="animation-delay:' . (2 + $key) * 45 . 'ms">
             <div class="logo-container" style="background: ' . $colorGradient . '">
               <img class="logo" src="' . $service->image . '" />
             </div>
