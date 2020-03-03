@@ -2,6 +2,9 @@
 
 A simple starter page for my self-hosted apps
 
+## Preview
+![](.github/preview-gif.gif)
+
 ## How to install
 
 - Install dependencies with composer.
